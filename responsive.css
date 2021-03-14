@@ -1,0 +1,24 @@
+@media all and (max-width: 1225px){
+	
+	section#header-area  {
+		position: static;
+	}
+	.logo-area {
+		float: none;
+		margin: auto;
+	}
+	
+	.navbar-area  {
+		float: none;
+		width: 100%;
+		
+	}
+	
+	section#slider-area {
+		-webkit-background-size: cover !important;
+		background-size: cover;
+		padding: none;
+		background-position: center center;
+		max-width: 100%;
+	}
+}
